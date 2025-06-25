@@ -1,0 +1,5 @@
+{
+  "name": "default",
+  "title": "Default Style",
+  "css": ".property-listing { background-color: #f5f5f5; }"
+}

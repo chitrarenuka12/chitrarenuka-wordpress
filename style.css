@@ -1,0 +1,21 @@
+/*
+Theme Name: Real Estate Hub
+Theme URI: https://example.com/
+Author: Your Name
+Author URI: https://example.com/
+Description: A simple block theme for real estate listings.
+Version: 1.0
+Requires at least: 6.0
+*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header, footer {
+  background: #222;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+

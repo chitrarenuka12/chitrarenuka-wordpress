@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "primary",
+          "color": "#004080",
+          "name": "Primary Blue"
+        }
+      ]
+    },
+    "spacing": {
+      "units": ["px", "em", "rem", "%"]
+    }
+  }
+}
